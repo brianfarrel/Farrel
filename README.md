@@ -1,1 +1,6 @@
 # Farrel
+👋 Hi, I’m @farrel
+👀 I’m interested in Data Analyst
+🌱 I’m currently learning Data Scientist
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
